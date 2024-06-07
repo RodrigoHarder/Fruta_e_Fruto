@@ -23,10 +23,6 @@ Ao longo do curso de [Bootstrap 4: criando uma landing page responsiva](https://
 - Uso do `!important` para romper o fluxo normal do CSS e priorizar determinado estilo;
 - Manter uma preocupação com relação a responsividade e acessibilidade do projeto;
 
-## **Funcionalidades**
-
-Para ter acesso ao projeto e tudo que ele possui basta clicar [neste link](https://rodrigoharder.github.io/bootstrap4/) que irá te redirecionar para o site.
-
 ## **Como usar os arquivos?**
 
 - Inicialmente você precisa ter instalado em seu computador um editor de código-fonte, no meu caso eu utilizo o [Visual Studio Code](https://code.visualstudio.com/download). 
